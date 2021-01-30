@@ -42,5 +42,5 @@
 	- keys_percent_caret.md
 	- practice_Special_chars.md
 
-- numpad
+- numpadw
 	practice_Numpad.md
