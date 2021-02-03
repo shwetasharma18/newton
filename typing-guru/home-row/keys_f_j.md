@@ -14,6 +14,6 @@ fj
 ```
 
 ```practicetyping
-fj,
+fj
 fffjjjfjfjfjjjjfff
 ```
