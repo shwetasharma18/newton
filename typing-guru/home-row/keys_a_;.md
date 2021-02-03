@@ -1,5 +1,5 @@
 ```ngMeta
-name: a and ;
+name; a and ;
 ```
 
 ## Home Row, keys a and ;
@@ -15,5 +15,5 @@ a;
 
 ```practicetyping
 a;
-aaa;;;a;a:;a;;;;aaa
+aaa;;;a;a;;a;;;;aaa
 ```
