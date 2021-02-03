@@ -1,5 +1,5 @@
 ```ngMeta
-name: Typing
-type: typing-guru
+name: Typing-Guru
+type: typing
 short_description: Let's learn typing
 ```
