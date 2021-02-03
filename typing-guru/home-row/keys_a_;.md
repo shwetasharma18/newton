@@ -1,5 +1,5 @@
 ```ngMeta
-name; a and ;
+name: a and ;
 ```
 
 ## Home Row, keys a and ;
