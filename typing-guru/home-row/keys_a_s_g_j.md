@@ -1,19 +1,18 @@
 ```ngMeta
-name: e and i
+name: a, s, g, j
 ```
 
-## Top Row, keys e and i
+## Home Row, keys a, s, g and j
 
-In the this part of the top Rows tutorial, we'll learn the use of keys `e` and `i`.
 Position your left index finger on the left groove on the keyboard, and your right index finger on the right groove of the keyboard. Look away from the keyboard and feel the grooves with your fingers and try to find them by moving your fingers away.
-Enter the following text once you're comfortable with the top row keys `e` and `i`
+Enter the following text with your ring fingers once you're comfortable with the home row keys `a`, `s`, `g`, `j`
 
 
 ```trytyping
-ei
+asgj
 ```
 
 ```practicetyping
-ei
-eeeiiieieieieeeiii
+asgj
+asgjsagjasgjgjjajgjagsssjgjsgjagjgagjsggjasgsgjasgasgajgagasgajgjjjgasgsgsajsgasgajsgajsgasgjasgjjjagssgsasjaj
 ```

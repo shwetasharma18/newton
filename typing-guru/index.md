@@ -3,13 +3,17 @@
 	- keys_f_j.md
 	- keys_space_bar_with_f_j.md
 	- keys_d_k.md
-	- practice_f_j_d_k.md
+	- keys_f_j_d_k.md
 	- keys_s_l.md
 	- keys_g_h.md
 	- keys_s_l_g_h.md
 	- keys_a_;.md
 	- keys_s_l_a_;.md
-	- practice_home_row.md
+	- keys_a_s_d_f.md
+	- keys_j_k_l_;.md
+	- keys_a_s_g_j.md
+	- keys_a_s_k_l.md
+	- keys_d_f_h_;.md
 
 - top-row
 	- keys_e_i.md
@@ -17,15 +21,29 @@
 	- keys_t_y.md
 	- keys_w_o.md
 	- keys_q_p.md
-	- practice_top_row.md
+	- keys_q_e_i_p.md
+	- keys_q_e_p.md
+	- keys_w_o_spacebar.md
+	- keys_w_r_o.md
+	- keys_w_r_y_o.md
 
 - bottom-row
 	- keys_v_n_b.md
 	- keys_c_m.md
-	- keys_x_.md
-	- keys_z_.md
-	- practice_bottom_row.md
-
+	- keys_v_m.md
+	- keys_x_dot.md
+	- keys_z_dot.md
+	- keys_b_n.md
+	- keys_z_dot.md
+	- keys_z_c_n.md
+	- keys_z_fslash.md
+	- keys_c_comma.md
+	- keys_c_v_b_n.md
+	- keys_v_m_comma.md
+	- keys_x_dot_fslash.md
+	- keys_x_c_dot_fslash.md
+	- keys_z_v_m_fslash.md
+	- keys_z_x_dot_fslash.md
 - number-row
 	- practice_number_row.md
 
